@@ -9,7 +9,7 @@
 	 static config(params) {
 		 let {path, locales, apppath} = params;
 		 this.path = path;
-		 this.defaultLang = "ja";
+		 this.defaultLang = (locales) ?locales:'en_US';
      this.APP_PATH = apppath;
      this.localePath = [apppath,path].join('');
 		 this.data  = {};
