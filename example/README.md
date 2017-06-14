@@ -1,9 +1,15 @@
 
 
 # demo
+   ```sh
+$ npm install. 
+$ node server.js
 
-
-
+```
+ - chnage brower language from en_US to ja(Japanes), 
+ - o/p on browser will display like "Welcome to 名 マンシー"
+ - again change languae form ja to en_US 
+ - o/p on browser will be " Welcome to Maneesh"
 ## Usage
 
 
@@ -14,7 +20,6 @@
 
 ### Tools
 
-Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
- ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
-
+Created with [Nodeclipse]
+ 
 Nodeclipse is free open-source project that grows with your contributions.
