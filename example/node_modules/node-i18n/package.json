@@ -1,0 +1,11 @@
+{
+  "name": "node-i18n",
+  "version": "1.0.1",
+  "description": "detect browser language and translate it ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maneesh",
+  "license": "ISC"
+}
